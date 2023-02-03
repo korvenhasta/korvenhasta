@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, my name is Marina. I am a former customer support specialist in IT company with a computer science education (master's degree). 
+
+I'm currently looking for a job as a juniour frontend developer. At the same time I am learing React, JS and making a project using these tecnologies.
+
+- 📫 How to reach me: zykovamv@gmail.com
 
 <!--
 **korvenhasta/korvenhasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
