@@ -1,6 +1,6 @@
-Hello, my name is Marina. I am a former customer support specialist in IT company with a computer science education (master's degree). 
+Hi, my name is Marina. I’m a computer science graduate with a master’s degree and previous experience as a customer support specialist in an IT company.
 
-I'm currently looking for a job as a juniour frontend developer. At the same time I am learing React, JS and making a project using these tecnologies.
+I’m currently pursuing a career as a junior frontend developer, while also expanding my skillset by learning React and JavaScript. I’m working on a project that utilizes these technologies to further strengthen my proficiency.
 
 - 📫 How to reach me: zykovamv@gmail.com
 
